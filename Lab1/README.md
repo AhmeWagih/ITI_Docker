@@ -71,3 +71,4 @@ background.**:
 ![alt text](image-12.png)
 
 - **Push the created image into your docker hub repo**:
+![alt text](image-13.png)
